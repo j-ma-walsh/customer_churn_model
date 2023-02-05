@@ -1,5 +1,5 @@
 # Customer Churn Model
-###Model to predict probability of customer churn
+### Model to predict probability of customer churn
 
 - Using the kaggle customer churn dataset (https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
 - Data was explored, cleaned and analysed.
